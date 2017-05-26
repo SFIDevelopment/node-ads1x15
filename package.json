@@ -20,8 +20,7 @@
   },
   "homepage": "https://github.com/alphacharlie/node-ads1x15",
   "dependencies": {
-    "async": "^0.9.0",
-    "i2c": "https://github.com/alphacharlie/node-i2c"
+    "async": "^0.9.0"
   },
   "devDependencies": {
     "chai": "^2.2.0",
